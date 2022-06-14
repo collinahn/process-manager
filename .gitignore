@@ -132,3 +132,4 @@ dmypy.json
 __*/
 __*
 *.txt
+.vscode/
